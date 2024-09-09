@@ -6,7 +6,7 @@ Data Analyst
 
 I am a beginner Data Analyst. My path in IT began with the University of Genoa, where I studied for a Master's degree. At the beginning of my studies, I tried myself in many areas, bragging about all the new knowledge; I tried to learn the C language, С#, matlab, Python, tried my hand at project management, but most of all I was hooked on Data Analytics! From January 2024 to July, I worked on a project on data analysis in logistics, developed a model predicting the time and cost of delivery together with my supervisor. Currently, I am actively looking for a job!
 
-*   🌍  I'm based in Astana
+*   🌍  I'm based in Astana, Kazakhstan
 *   ✉️  You can contact me at [alisher.j.it@gmail.com](mailto:alisher.j.it@gmail.com)
 *   🧠  I'm learning CS50 in EDX
 *   🤝  I'm open to collaborating on Interesting projects
