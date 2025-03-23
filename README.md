@@ -1,17 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisher
 ===============================================================================================================================
 
-Data Analyst
+Data Analyst | Strategic Engineer
 ------------
 
-I am a Data Analyst and a certified strategic engineer. My path in IT began with the University of Genoa, where I studied for a Master's degree. At the beginning of my studies, I tried myself in many areas, bragging about all the new knowledge; I tried to learn the C language, С#, matlab, Python, tried my hand at project management, but most of all I was hooked on Data Analytics! From January 2024 to December, I worked on a project on data analysis in logistics, developed a model predicting the time and cost of delivery together. Currently, I am actively looking for a job!
+I am a Data Analyst and a certified Strategic Engineer. My path in IT began at the University of Genoa, where I studied for a Master's degree. At the beginning of my studies, I tried myself in many areas, grabbed every opportunity, eagerly learning everything new: I coded in C, C#, built models in Matlab, Python, tried myself in project management, but most of all I was hooked by Data Analytics and I found myself in this field. From January 2024 to December, I worked on a project on data analysis in logistics, having collected, processed and analyzed historical data, I developed a model that predicts the time and cost of delivery, and also based on the model I created an interface for company managers to monitor indicators and for users to instantly calculate the cost and time of delivery. Currently actively looking for a job!
 
 *   🌍  I'm based in Genoa, Italy
 *   ✉️  You can contact me at [alisher.j.it@gmail.com](mailto:alisher.j.it@gmail.com)
 *   🧠  I completed the CS50 course in EDX from Harvard University
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I love philosophy and Rammstein :)
-*   “𝐘𝐨𝐮 𝐦𝐢𝐬𝐬 𝟏𝟎𝟎% 𝐨𝐟 𝐭𝐡𝐞 𝐬𝐡𝐨𝐭𝐬 𝐲𝐨𝐮 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞.” 
+
+“𝐘𝐨𝐮 𝐦𝐢𝐬𝐬 𝟏𝟎𝟎% 𝐨𝐟 𝐭𝐡𝐞 𝐬𝐡𝐨𝐭𝐬 𝐲𝐨𝐮 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞.” 
 
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> 
