@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisher
 ===============================================================================================================================
 
-Data Analyst | Strategic Engineer
+Strategic Engineer | Data Science | Sales
 ------------
 
-I am a Data Analyst and a certified Strategic Engineer. My path in IT began at the University of Genoa, where I studied for a Master's degree. At the beginning of my studies, I tried myself in many areas, grabbed every opportunity, eagerly learning everything new: I coded in C, C#, built models in Matlab, Python, tried myself in project management, but most of all I was hooked by Data Analytics and I found myself in this field. From January 2024 to December, I worked on a project on data analysis in logistics, having collected, processed and analyzed historical data, I developed a model that predicts the time and cost of delivery, and also based on the model I created an interface for company managers to monitor indicators and for users to instantly calculate the cost and time of delivery. Currently actively looking for a job!
+My name is Alisher Juanyspay. I am a Master’s-level Strategic Engineer with a proven ability to bridge the gap between data-driven innovation and operational execution, leveraging expertise in machine learning, sales strategy, and logistics optimization.
 
 *   🌍  I'm based in Genoa, Italy
 *   ✉️  You can contact me at [alisher.j.it@gmail.com](mailto:alisher.j.it@gmail.com)
